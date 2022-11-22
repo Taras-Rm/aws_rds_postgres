@@ -1,0 +1,6 @@
+database:
+  port: 5555
+  host: host.com
+  user: postgres
+  password: postgres
+  name: dbname
